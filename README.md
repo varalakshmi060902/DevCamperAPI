@@ -433,10 +433,10 @@ URL: {{URL}}/api/v1/auth/register
 
 ```js        
 {
-    "name":"Gopi",
-    "email":"gopi@gmail.com",
+    "name":"Vara",
+    "email":"vara@gmail.com",
     "role":"publisher",
-    "password":"chandu"
+    "password":"Qwerty123!@#"
 }
 ```
 
@@ -550,7 +550,7 @@ URL: {{URL}}/api/v1/auth/resetpassword/288cf19c58ee48512defa3db14a373c1f9883161
 
 ```js        
 {
-    "password": "chandu"
+    "password": "Qwerty123!@#"
 }
 ```
 
@@ -617,8 +617,8 @@ URL: {{URL}}/api/v1/auth/updatepassword
 
 ```js        
 {
-    "currentPassword":"chandu",
-    "newPassword":"chandu1"
+    "currentPassword":"Qwerty123!@#",
+    "newPassword":"Poiuyt098)(*"
 }
 ```
 
